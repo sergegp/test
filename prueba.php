@@ -1,3 +1,6 @@
 <?php
-Hola a todo el mundo
+
+
+echo "Hola a todo el mundo";
+die();
 ?>
